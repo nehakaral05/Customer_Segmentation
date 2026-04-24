@@ -195,3 +195,6 @@ An interactive Power BI dashboard was built to visualize all findings. The dashb
 ## Conclusion
 
 This project demonstrates a complete end-to-end data analytics workflow — starting from data cleaning in Excel, to writing SQL queries for RFM analysis, and finally building an interactive Power BI dashboard. The RFM segmentation provides businesses with a practical and actionable way to understand their customer base and design targeted marketing strategies for each segment.
+
+## Dataset
+Dataset is available on goggle drive: [Click here to download](https://drive.google.com/file/d/1da7Y0zblME_IAmN7b6NAgRWmDwBFVjWz/view?usp=drive_link)
